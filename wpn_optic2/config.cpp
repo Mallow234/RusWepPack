@@ -92,9 +92,9 @@ class CfgWeapons
                     opticsZoomMin = 0.249/4;
                     opticsZoomMax = 0.249/4;
                     opticsZoomInit = 0.249/4;
-					discreteDistance[]={300,400,500,600};
-					discreteDistanceInitIndex=1;
-					distanceZoomMin=300;
+					discreteDistance[]={200,300,400,500,600};
+					discreteDistanceInitIndex=0;
+					distanceZoomMin=200;
 					distanceZoomMax=600;
 					memoryPointCamera="eye";
 					modelOptics[]=
